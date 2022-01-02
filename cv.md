@@ -36,8 +36,7 @@ Until now, I didn't expieriensed a lot in IT. I am studying on the second course
 
 > function mutiply(a,b){
 > Return a \* b
-
-## }
+> }
 
 ---
 
