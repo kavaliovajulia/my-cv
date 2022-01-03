@@ -14,6 +14,10 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+.imgname img {
+  width: 230px;
+  height: 230px;
+}
 h2 {
   padding: 18.72px 1px;
   margin: 0px 0px;
@@ -67,4 +71,8 @@ nav {
 }
 .navul {
   margin: 0;
+}
+.rsLogo {
+  width: 100px;
+  height: 100px;
 }
