@@ -1,0 +1,70 @@
+body {
+  color: rgb(65, 65, 65);
+  background: url(assets/img/background2.jpg);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.imgname {
+  background-color: rgba(100, 100, 100, 0.5);
+  padding: 0 5% 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+h2 {
+  padding: 18.72px 1px;
+  margin: 0px 0px;
+  text-align: center;
+}
+.ul {
+  text-align: start;
+  background-color: rgba(100, 100, 100, 0.5);
+  padding: 16px 16px 16px 40px;
+}
+p {
+  background-color: rgba(100, 100, 100, 0.5);
+  padding: 16px 16px 16px 16px;
+}
+.rslink {
+  display: flex;
+  justify-content: center;
+}
+pre {
+  font-size: 16px;
+  background-color: rgba(100, 100, 100, 0.5);
+}
+.wrapper {
+  width: 80%;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+section {
+  background-color: rgba(121, 121, 121, 0.5);
+  padding: 16px 16px;
+  margin: 16px 0px;
+}
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+nav {
+  background-color: rgba(121, 121, 121, 0.5);
+  padding: 5%;
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  align-items: start;
+  font-size: 19px;
+}
+.navul {
+  margin: 0;
+}
